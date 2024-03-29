@@ -1,0 +1,7 @@
+C:\Users\Nikolina\source\repos\WCFServices\WCFServices\bin\WCFServices.dll.config
+C:\Users\Nikolina\source\repos\WCFServices\WCFServices\bin\WCFServices.dll
+C:\Users\Nikolina\source\repos\WCFServices\WCFServices\bin\WCFServices.pdb
+C:\Users\Nikolina\source\repos\WCFServices\WCFServices\obj\Debug\WCFServices.csproj.AssemblyReference.cache
+C:\Users\Nikolina\source\repos\WCFServices\WCFServices\obj\Debug\WCFServices.csproj.CoreCompileInputs.cache
+C:\Users\Nikolina\source\repos\WCFServices\WCFServices\obj\Debug\WCFServices.dll
+C:\Users\Nikolina\source\repos\WCFServices\WCFServices\obj\Debug\WCFServices.pdb
